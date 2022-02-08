@@ -11,19 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{FFDB4C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{14E2905B-3463-4C7A-B82F-77F44EBCB092}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAExample.Infra.Data", "src\Infra\CAExample.Infra.Data\CAExample.Infra.Data.csproj", "{867FA77B-23F4-46E7-8FD2-E8A959826683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitectureBase.Infra.Data", "src\Infra\CAExample.Infra.Data\ArchitectureBase.Infra.Data.csproj", "{867FA77B-23F4-46E7-8FD2-E8A959826683}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentation", "Apresentation", "{3AAE0844-AF9E-452A-A007-76439C6C0C6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAExample.Domain", "src\Domain\CAExample.Domain\CAExample.Domain.csproj", "{67E22448-24B8-48D3-AE83-9F10CF8D98C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitectureBase.Domain", "src\Domain\CAExample.Domain\ArchitectureBase.Domain.csproj", "{67E22448-24B8-48D3-AE83-9F10CF8D98C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAExample.Application", "src\Application\CAExample.Application\CAExample.Application.csproj", "{22C0B9CC-B11F-4970-8CAE-67B64F9164B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitectureBase.Application", "src\Application\CAExample.Application\ArchitectureBase.Application.csproj", "{22C0B9CC-B11F-4970-8CAE-67B64F9164B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAExample.API", "src\Apresentation\CAExample.API\CAExample.API.csproj", "{28C1595B-CCBA-4172-9673-66617536414E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitectureBase.API", "src\Apresentation\CAExample.API\ArchitectureBase.API.csproj", "{28C1595B-CCBA-4172-9673-66617536414E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{562E5A7B-F9B0-43CB-87AA-D568578A1D7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAExample.Tests", "src\Tests\CAExample.Tests\CAExample.Tests.csproj", "{6F352487-4778-499D-B3AC-A85AFB0E9855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchitectureBase.Tests", "src\Tests\CAExample.Tests\ArchitectureBase.Tests.csproj", "{6F352487-4778-499D-B3AC-A85AFB0E9855}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

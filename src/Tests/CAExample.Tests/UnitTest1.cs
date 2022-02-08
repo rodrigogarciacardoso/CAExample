@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace CAExample.Tests
+namespace ArchitectureBase.Tests
 {
     public class UnitTest1
     {
